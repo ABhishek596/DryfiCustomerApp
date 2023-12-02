@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081330393651",
+    "project_id": "dryfi-f0cec",
+    "storage_bucket": "dryfi-f0cec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081330393651:android:82e95f7a0c6365b180f946",
+        "android_client_info": {
+          "package_name": "com.dryfi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMx8feNzj4AUS_j5eFO6DUdYq_Lz2U7aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
